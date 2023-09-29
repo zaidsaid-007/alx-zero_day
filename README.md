@@ -1,1 +1,1 @@
-My first readme
+Bash basics has been interesting
